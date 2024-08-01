@@ -4,6 +4,10 @@
 
 This project is a sentiment analysis application that utilizes a machine learning model to determine the sentiment of text input. The backend is built using FastAPI for efficient API handling, and the frontend is developed with React and Recharts for a user-friendly interface and data visualization.
 
+
+## Demo 
+https://github.com/user-attachments/assets/f0d226ce-4f8d-4a18-bdf7-c392ceedbaf0
+
 ## Installation
 
 ### Backend
